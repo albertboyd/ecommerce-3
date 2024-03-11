@@ -84,7 +84,7 @@ const Contact = () => {
                 </span>
                 <span>
                   <FaTwitter />
-                  <p>@JeffJiang</p>
+                  <p>@alberboyd</p>
                 </span>
               </div>
             </Card>
